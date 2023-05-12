@@ -1,0 +1,18 @@
+# Node directories
+node_modules/
+.npm
+
+# Client directories
+dev/
+coverage/
+storybook-static/
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
