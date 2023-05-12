@@ -4,6 +4,7 @@ node_modules/
 
 # Client directories
 dev/
+dist/
 coverage/
 storybook-static/
 
