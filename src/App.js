@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import Home from "./pages/Home";
 import "./styles/styles.scss";
 import Navbar from "./components/Navbar";
@@ -7,6 +8,7 @@ import Coin from "./pages/Coin";
 function App() {
 	return (
 		<>
+			<Analytics />
 			<Navbar />
 			<Routes>
 				<Route path="/" element={<Home />} />
