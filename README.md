@@ -2,7 +2,7 @@
 
 <p><b>Criyptoplace</b> is a website to search for information about various cryptocurrencies in real-time. The application is connected to the Coingecko API, provided info about prices and market trends.<br/>
 
-👉 Live Demo: <a href='https://cryptoplace-jet.vercel.app/' target="_blank">Cryptoplace</a>
+👉 Live Demo: <a href='https://cryptoplace-jhonnovax.vercel.app/' target="_blank">Cryptoplace</a>
 
 <h3>Tech Stack:</h3>
 
