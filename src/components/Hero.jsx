@@ -41,7 +41,7 @@ function Hero() {
 						<div className="hero-content__text">
 							<img className="btc-float" src={Btc} alt="floating-el" />
 							<h1>
-                Track and Trade
+								Track and Trade
 								<br /> <span>Crypto currencies</span>
 							</h1>
 							<img className="eth-float" src={Eth} alt="floating-el" />
@@ -49,7 +49,7 @@ function Hero() {
 
 						{/* mobile btn */}
 						<a className="mobile-btn-hero" href="#market">
-              See Prices <i className="fa-solid fa-angle-down"></i>
+							See Prices <i className="fa-solid fa-angle-down"></i>
 						</a>
 
 						<div onLoad={() => setCoinsLoad(false)} className="coin-slider">
